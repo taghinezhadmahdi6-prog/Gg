@@ -1,2 +1,6 @@
 python-telegram-bot
 requests
+pillow
+google-generativeai
+openai
+openpyxl
