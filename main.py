@@ -22,7 +22,7 @@ from openpyxl.styles import Font, Alignment, PatternFill
 TELEGRAM_TOKEN = "8229826436:AAGBM8IxFw6zHqhB38b3OmjqrsDprCfKpPA"
 
 # 2. تنظیمات گوگل جمینی (سرویس اصلی)
-GOOGLE_API_KEY = "AIzaSyBSF12ppvdnE7m7N3InDgAsTDeBhoJreMg"
+GOOGLE_API_KEY = "AIzaSyAuvryviPqsfFi8jdUF7fo9nU-eAAqpP_A"
 GEMINI_MODEL_ID = "gemini-flash-latest"  # پیشنهاد: gemini-1.5-flash یا gemini-1.5-pro
 
 # 3. تنظیمات Clarifai (سرویس جایگزین)
